@@ -51,7 +51,10 @@
 @mixin fa-icon-solid($fa-var) {
   @extend .fa-solid;
 
-  & { #{$fa-icon-property}: unquote("\"#{ $fa-var }\""); #{$fa-duotone-icon-property}: unquote("\"#{ $fa-var }#{ $fa-var }\""); }
+  & {
+    #{$fa-icon-property}: unquote("\"#{ $fa-var }\"");
+    #{$fa-duotone-icon-property}: unquote("\"#{ $fa-var }#{ $fa-var }\"");
+  }
 }
 @mixin fa-icon-regular($fa-var) {
   @extend .fa-regular;
