@@ -4,10 +4,10 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Dongbin
-middle_name: Evan
+middle_name: 
 last_name: BAI
 contact_note: >
-  乘骐骥以驰骋兮，来吾道夫先路！
+  日月忽其不淹兮，春與秋其代序。乘騏驥以馳騁兮，來吾道夫先路。
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -181,7 +181,6 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/

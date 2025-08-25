@@ -5,9 +5,11 @@
 email: dong-bin.bai@connect.polyu.hk # your email address
 github_username: evanbin # your GitHub user name
 scholar_userid: r4gfJPMAAAAJ # your Google Scholar ID
-dblp_url: https://dblp.org/pid/296/1559 # your DBLP profile url
 orcid_id: 0009-0006-7125-1992 # your ORCID ID
-work_url: https://www4.comp.polyu.edu.hk/~labimcl/profile/dongbin-bai.html # work page URL
+linkedin_username: evanbai # your LinkedIn user name
+
+# dblp_url: https://dblp.org/pid/296/1559 # your DBLP profile url
+# work_url: https://www4.comp.polyu.edu.hk/~labimcl/profile/dongbin-bai.html # work page URL
 
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
@@ -25,7 +27,6 @@ work_url: https://www4.comp.polyu.edu.hk/~labimcl/profile/dongbin-bai.html # wor
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-# linkedin_username: # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # osf_id: # your OSF ID
